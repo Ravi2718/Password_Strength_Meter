@@ -140,7 +140,6 @@ This is a fun educational project — feel free to fork and enhance it!
 
 ```
 
----
 📝 Note
 
 - This tool is for educational and demonstration purposes only.
